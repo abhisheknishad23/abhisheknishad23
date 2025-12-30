@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, SQL, Nodejs and JavaScripg  
+- **Languages:** Python, SQL, Nodejs and JavaScript  
 - **ML & DS:**  
   - Linear & Logistic Regression  
   - Decision Trees, Random Forest  
