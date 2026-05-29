@@ -1,4 +1,4 @@
-# Hi 👋 I'm Abhishek Kumar Nishad
+# Hi 👋 I'm Abhishek Nishad
 
 🤖 Machine Learning Engineer | Data Science | AI  
 📊 Turning data into intelligent insights  
