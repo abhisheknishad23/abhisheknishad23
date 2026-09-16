@@ -2,6 +2,7 @@
 Hi 👋 I'm Abhishek Nishad
 
 🤖 Machine Learning Engineer | Data Science | AI
+
 📊 Turning data into intelligent insights
 
 ---
@@ -48,7 +49,7 @@ Hi 👋 I'm Abhishek Nishad
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://abhisheknishad.netlify.app  
 - ✉️ Email: iabhisheku4@gmail.com
-- 💼 LinkedIn: abhishek-nishad-9b0251234
+- 💼 LinkedIn:https://www.linkedin.com/in/abhishek-nishad-9b0251234
 
 ⭐ If you like my ML work, give a star!
 
