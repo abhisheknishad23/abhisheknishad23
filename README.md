@@ -1,7 +1,8 @@
-# Hi 👋 I'm Abhishek Nishad
+<h1 align="center">Hi 👋, I'm Abhishek Nishad</h1>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 🤖 Machine Learning Engineer | Data Science | AI  
-📊 Turning data into intelligent insights  
+📊 Turning data into intelligent insights
 
 ---
 
@@ -37,8 +38,7 @@
 
 ---
 <!-- Main GitHub Stats Card -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhisheknishad23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=abhisheknishad23&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknishad23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
