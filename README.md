@@ -43,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknishad23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <!-- Commit Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknishad23&theme=radial&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknishad23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://abhisheknishad.netlify.app  
