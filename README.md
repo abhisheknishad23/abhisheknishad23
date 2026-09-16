@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Nishad</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
-
-🤖 Machine Learning Engineer | Data Science | AI  
+Hi 👋 I'm Abhishek Nishad
+🤖 Machine Learning Engineer | Data Science | AI
 📊 Turning data into intelligent insights
 
 ---
