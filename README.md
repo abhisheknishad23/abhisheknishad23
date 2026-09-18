@@ -39,21 +39,22 @@ I enjoy turning data into useful insights and building end-to-end projects—fro
 
 ---
 
-📈 My ML Journey
+## 📈 My ML Journey
 
 I am continuously building projects to strengthen my understanding of:
 
-Data Cleaning & Exploratory Data Analysis
-Feature Engineering
-Supervised & Unsupervised Learning
-Model Selection & Evaluation
-Neural Networks
-CNN & RNN
-LSTM & GRU
-NLP & Transformers
-Large Language Models
-Model Deployment
+- **Data Cleaning & Exploratory Data Analysis**
+- **Feature Engineering**
+- **Supervised & Unsupervised**
+- **Model Selection & Evaluation**
+- **Neural Networks**
+- **CNN & RNN**
+- **LSTM & GRU**
+- **NLP & Transformers**
+- **LLM**
+- **Model Deployment**
 
+---
 
 ---
 <!-- Main GitHub Stats Card -->
