@@ -1,40 +1,57 @@
 ---
 Hi 👋 I'm Abhishek Nishad
 
-🤖 Machine Learning Engineer | Data Science | AI
+Machine Learning Engineer | Data Science | Deep Learning
 
-📊 Turning data into intelligent insights
+I'm an aspiring Machine Learning Engineer focused on building practical, data-driven solutions with Python, Machine Learning, and Deep Learning.
+
+I enjoy turning data into useful insights and building end-to-end projects—from data preprocessing and model development to deployment.
 
 ---
 
 ## 🧠 About Me
-- 🎓 Machine Learning & Data Science Enthusiast
+- 🔭 Currently working on Machine Learning & AI project
 - 🧪 Hands-on with ML algorithms & model building
-- 📈 Strong in data analysis, visualization & prediction
-- 🧠 Learning Deep Learning & Generative AI
+- 🧠 Learning Deep Learning, NLP, LLM & Generative AI
+- 📊 Interested in Machine Learning, Data Science & Artificial Intelligence
+- 🚀 Exploring ML model deployment and MLOps
+- 🤝 Open to collaborating on ML & AI projects
 - 💻 MERN Stack Developer (6 months experience)
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, SQL, Nodejs and JavaScript  
-- **ML & DS:**  
-  - Linear & Logistic Regression  
-  - Decision Trees, Random Forest  
-  - KNN, Naive Bayes  
-  - PCA, Feature Engineering  
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
-- **Deep Learning:** TensorFlow, Keras (Basics)  
-- **Tools:** Jupyter Notebook, Git, GitHub  
+- **Languages & Tools:** Python, SQL, Git, Jupyter Notebook and JavaScript  
+- **ML:** Supervised Learning, Unsupervised Learning, Ensemble Methods    
+- **Deep Learning:** Neural Networks, Transformers, LLMs, Text Classification, Embeddings
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn   
+- **Backend:** Fast API, Node.js, REST APIs   
 
 ---
 
 ## 🚀 Machine Learning Projects
-- 📈 **House Price Prediction** – Regression Model  
-- 🎬 **Movie Recommendation System** – Content Based Filtering  
-- 🧠 **Student Package Prediction** – Linear Regression  
-- 📰 **Spam Classifier** – NLP + ML  
-- 📊 **EDA Projects** – Data Cleaning & Visualization  
+- **Virtual mouse Gesture**
+- **Traffic congestion detector**
+- **Travel Recommendation System**
+- **Movie Recommendation System** 
+- **Dog vs Cat Classifier**  
+- **IPL win predictor**
+
+  
+📈 My ML Journey
+
+I am continuously building projects to strengthen my understanding of:
+
+Data Cleaning & Exploratory Data Analysis
+Feature Engineering
+Supervised & Unsupervised Learning
+Model Selection & Evaluation
+Neural Networks
+CNN & RNN
+LSTM & GRU
+NLP & Transformers
+Large Language Models
+Model Deployment
 
 
 ---
