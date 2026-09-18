@@ -37,7 +37,8 @@ I enjoy turning data into useful insights and building end-to-end projects—fro
 - **Dog vs Cat Classifier**  
 - **IPL win predictor**
 
-  
+---
+
 📈 My ML Journey
 
 I am continuously building projects to strengthen my understanding of:
