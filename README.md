@@ -3,9 +3,9 @@ Hi 👋 I'm Abhishek Nishad
 
 Machine Learning Engineer | Data Science | Deep Learning
 
-I'm an aspiring Machine Learning Engineer focused on building practical, data-driven solutions with Python, Machine Learning, and Deep Learning.
+I'm an aspiring Machine Learning Engineer focused on building practical, data driven solutions with Python, Machine Learning, and Deep Learning.
 
-I enjoy turning data into useful insights and building end-to-end projects—from data preprocessing and model development to deployment.
+I enjoy turning data into useful insights and building end to end projects from data preprocessing and model development to deployment.
 
 ---
 
